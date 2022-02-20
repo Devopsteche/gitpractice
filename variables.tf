@@ -2,7 +2,7 @@ variable "test" {
   default = "test_git_clone"
 }
 
-variable "1" {}
+variable "123456" {}
 
 variable "2" {}
 
