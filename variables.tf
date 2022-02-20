@@ -13,3 +13,5 @@ variable "4" {}
 variable "5" {}
 
 variable "6" {}
+
+variable "7" {}
